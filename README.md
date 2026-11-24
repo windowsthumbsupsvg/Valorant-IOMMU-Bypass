@@ -60,3 +60,5 @@ Because the anti-cheat operates at the kernel level, a proper fix is to check IO
 ## Note
 
 Published to show how riot's anti-cheat can be improved. This bypass is probably going to get detected soon...
+
+<img width="709" height="755" alt="image" src="https://github.com/user-attachments/assets/dd95249d-1a58-44d3-a547-d5b7a3a31a14" />
