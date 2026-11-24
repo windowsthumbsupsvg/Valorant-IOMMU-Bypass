@@ -6,7 +6,7 @@
 
 Explains a bypass of Valorant's IOMMU / VT-d restriction without relying on VMD or firmware bypasses.
 
-<img width="420" height="172" alt="IOMMU restriction notice" src="https://github.com/user-attachments/assets/3dbf49c6-0677-4355-a7f3-162e94cf40a4" />
+<img width="420" height="172" alt="image" src="https://github.com/user-attachments/assets/e9e442e2-4369-4686-920b-20a75108d2a1" />
 
 ## Contents
 
@@ -26,7 +26,7 @@ Explains a bypass of Valorant's IOMMU / VT-d restriction without relying on VMD 
   3. **Aim Device:** Alters mouse/input signals by overriding actual mouse inputs.
   4. **Fuser:** Combines video output from the main PC and cheat overlay PC onto the display.
 
-<img width="975" height="617" alt="DMA hardware setup diagram" src="https://github.com/user-attachments/assets/261d0908-375c-455a-9632-f491502065eb" />
+<img width="975" height="617" alt="image" src="https://github.com/user-attachments/assets/78f57523-a953-4c17-95ae-58749cce8b5f" />
 
 When IOMMU restriction is done without a bypass, the DMA device is blocked from reading target memory.
 
